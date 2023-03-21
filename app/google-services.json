@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "833555051930",
+    "project_id": "attendence-d0cbb",
+    "storage_bucket": "attendence-d0cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833555051930:android:4dbb9ef59b849b1245f623",
+        "android_client_info": {
+          "package_name": "com.ajstudios.easyattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833555051930-40cait8d6tmf8bhnrrp8u7gp2jkrnbco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1WUimX99wqxInFNPTa29oRzrLo2VCf7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833555051930-40cait8d6tmf8bhnrrp8u7gp2jkrnbco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833555051930:android:3aaf4bb0b257a1c045f623",
+        "android_client_info": {
+          "package_name": "com.ajstudios.notesapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833555051930-40cait8d6tmf8bhnrrp8u7gp2jkrnbco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1WUimX99wqxInFNPTa29oRzrLo2VCf7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833555051930-40cait8d6tmf8bhnrrp8u7gp2jkrnbco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

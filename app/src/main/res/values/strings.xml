@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes Application</string>
+    <string name="welcome">WELCOME</string>
+    <string name="password_must_be_8_characters_long">Password (Must be 8 characters long)</string>
+    <string name="email">Email</string>
+    <string name="button">button</string>
+    <string name="don_t_have_an_account_sign_up_here">Don\'t have an account? Sign Up Here</string>
+</resources>
